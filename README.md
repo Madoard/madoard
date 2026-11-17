@@ -9,7 +9,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro%2C%20BR-FFB7C5?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Degree-Information%20Systems-E6E6FA?style=for-the-badge&logoColor=555555" alt="Information Systems" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-FFD1DC?style=for-the-badge&logoColor=white" alt="Focus" />
   </p>
