@@ -24,6 +24,7 @@
 * **₊˚🌷 Academic & Tech Journey:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), building a solid foundation in software architecture, relational databases, and object-oriented systems.
 * **₊˚🍰 Hands-On Development:** Operating freelance full-stack web projects (**APHOV**), crafting responsive front-end interfaces alongside back-end logic and database integrations.
 * **₊˚🌷 Data & Enterprise Ecosystem:** Exploring **Data Engineering**, relational databases (`SQLite` / `MySQL`), Python scripting, and **SAP / ABAP** fundamentals.
+* **₊˚🍰 Beyond Code:** Passionate about oil & pastel painting, psychology, and philosophy.
 
 <p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
 
