@@ -21,10 +21,10 @@
 
 ### ╰┈➤ ꒰ 🎀 ꒱ About Me
 
-* **₊˚🌷 Academic & Tech Journey:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), building a solid foundation in software architecture, relational databases, and object-oriented systems.
-* **₊˚🍰 Hands-On Development:** Operating freelance full-stack web projects (**APHOV**), crafting responsive front-end interfaces alongside back-end logic and database integrations.
-* **₊˚🌷 Data & Enterprise Ecosystem:** Exploring **Data Engineering**, relational databases (`SQLite` / `MySQL`), Python scripting, and **SAP / ABAP** fundamentals.
-* **₊˚🍰 Beyond Code:** Passionate about oil & pastel painting, psychology, and philosophy.
+- **₊˚🌷 Academic & Tech Journey:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), building a solid foundation in software architecture, relational databases, and object-oriented systems.
+- **₊˚🍰 Hands-On Development:** Operating freelance full-stack web projects (**APHOV**), crafting responsive front-end interfaces alongside backend logic and database integrations.
+- **₊˚🌷 Data & Enterprise Ecosystem:** Exploring **Data Engineering** pipelines (`ETL/ELT`, SQLite/MySQL), Python automation, and **SAP / ABAP** fundamentals.
+- **₊˚🍰 Beyond Code:** Passionate about oil & pastel painting, psychology, philosophy, and cozy study sessions.
 
 <p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
 
@@ -56,14 +56,4 @@
 | :--- | :---: | :--- |
 | [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
 | [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM` modeling, `DDL/DML` schema & analytical `DQL` queries |
-| [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
-| [**Portfolio - Red Saloon**](https://github.com/madoard/Portfolio-Red-Saloon) | `HTML5` `CSS3` | Responsive landing page & live deployment via GitHub Pages |
-| [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
-
-<br/>
-
-<div align="center">
-  <p>°•. 🌸 .•° ────── ꒰ 💗 ꒱ ────── °•. 🌸 .•°</p>
-  <p><i>made with 💗 by <b>Maria Eduarda Gonçalves</b></i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,50:FFB7C5,100:FFD1DC&height=100&section=footer" width="100%" alt="Footer Wave" />
-</div>
+| [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering,
