@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=130&section=header&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Information%20Systems%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20Engineering*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
 
   <p>
     <a href="https://git.io/typing-svg">
@@ -9,6 +9,7 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro%2C%20BR-FFB7C5?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Degree-Information%20Systems-E6E6FA?style=for-the-badge&logoColor=555555" alt="Information Systems" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-FFD1DC?style=for-the-badge&logoColor=white" alt="Focus" />
   </p>
@@ -21,9 +22,10 @@
 
 ### ╰┈➤ ꒰ 🎀 ꒱ About Me
 
-* **₊˚🌷 Academic Background:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), focused on software architecture, relational database modeling, and object-oriented programming.
-* **₊˚🍰 Full-Stack Development:** Building end-to-end web applications (**APHOV**), handling both responsive front-end interfaces and back-end logic with database integration.
-* **₊˚🌷 Data & Enterprise Ecosystem:** Developing skills in **Data Engineering** (`ETL/ELT` pipelines, SQLite/MySQL), Python scripting, and **SAP / ABAP** fundamentals.
+* **₊˚🌷 Academic & Tech Journey:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), building a solid foundation in software architecture, relational databases, and object-oriented systems.
+* **₊˚🍰 Hands-On Development:** Operating freelance full-stack web projects (**APHOV**), crafting responsive front-end interfaces alongside backend logic and database integrations.
+* **₊˚🌷 Data & Enterprise Ecosystem:** Exploring **Data Engineering** pipelines (`ETL/ELT`, SQLite/MySQL), Python automation, and **SAP / ABAP** fundamentals.
+* **₊˚🍰 Beyond Code:** Passionate about oil & pastel painting, psychology, philosophy, and cozy study sessions.
 
 <p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
 
