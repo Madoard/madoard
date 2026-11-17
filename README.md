@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Information%20Systems%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20Engineering*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=130&section=header&animation=twinkling" width="100%" alt="Header Banner" />type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Information%20Systems%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Data%20Engineering*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
 
   <p>
     <a href="https://git.io/typing-svg">
