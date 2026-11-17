@@ -9,8 +9,8 @@
   </p>
 
   <p>
+    <img src="https://img.shields.io/badge/Degree-Information%20Systems-E6E6FA?style=for-the-badge&logoColor=555555" alt="Information Systems" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-FFD1DC?style=for-the-badge&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/Building-Web%2C%20APIs%20%26%20Pipelines-E6E6FA?style=for-the-badge&logoColor=555555" alt="Building" />
   </p>
 
 </div>
@@ -19,12 +19,14 @@
 
 <p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
 
-### ╰┈➤ ꒰ 🎀 ꒱ What I Build & Explore
+### ╰┈➤ ꒰ 🎀 ꒱ Technical Scope & Focus
 
-* **₊˚🌷 Back-End & Systems:** Developing object-oriented applications in **Java** and **Python**, structured around clean architecture, software modeling (`UML`), and requirements engineering.
-* **₊˚🍰 Data & Databases:** Designing relational schemas (`ERM/DER`), writing analytical `SQL` queries, and building data pipelines (`ETL/ELT`) with **MySQL**, **SQLite**, and **Python**.
-* **₊˚🌷 Full-Stack Web:** Crafting responsive web applications from UI prototyping (**Figma**, `HTML5`, `CSS3`, `JavaScript`) to server-side logic (**APHOV**).
-* **₊˚🍰 Current Lab:** Exploring enterprise development with **SAP / ABAP**, **Machine Learning** fundamentals, and gamified EdTech mechanics on **Roblox**.
+| Domain | Architecture & Practice |
+| :--- | :--- |
+| **₊˚🌷 Back-End & Systems** | Object-oriented applications in **Java** and **Python**, structured around clean architecture, software modeling (`UML`), and requirements engineering. |
+| **₊˚🍰 Data & Databases** | Relational database modeling (`ERM/DER`), analytical `SQL` queries, and `ETL/ELT` data pipelines using **MySQL**, **SQLite**, and **Python**. |
+| **₊˚🌷 Full-Stack Web** | End-to-end web development from interface prototyping (**Figma**, `HTML5`, `CSS3`, `JavaScript`) to server-side logic (**APHOV**). |
+| **₊˚🍰 Enterprise & R&D** | Exploring enterprise ecosystems with **SAP / ABAP**, **Machine Learning** fundamentals, and gamified EdTech mechanics on **Roblox**. |
 
 <p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
 
@@ -32,13 +34,16 @@
 
 <div align="center">
 
+  <p><b>Languages, Data & Enterprise</b></p>
   <p>
     <img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Java-E6E6FA?style=for-the-badge&logo=openjdk&logoColor=555555" alt="Java" />
     <img src="https://img.shields.io/badge/SAP%20%7C%20ABAP-FFD1DC?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP" />
-    <img src="https://img.shields.io/badge/MySQL%20%7C%20SQLite-FFB7C5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL & SQLite" />
+    <img src="https://img.shields.io/badge/MySQL-FFB7C5?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQLite-E6E6FA?style=for-the-badge&logo=sqlite&logoColor=555555" alt="SQLite" />
   </p>
 
+  <p><b>Web, UI & Workflow</b></p>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E6E6FA?style=for-the-badge&logo=html5&logoColor=555555" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-FFD1DC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -53,13 +58,13 @@
 
 ### ╰┈➤ ꒰ 🍓 ꒱ Featured Repositories
 
-| Project | Stack | Highlight |
-| :--- | :---: | :--- |
-| [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
-| [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM/DER` modeling, `DDL/DML` schema & analytical `DQL` queries |
-| [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
-| [**Portfolio - Red Saloon**](https://github.com/madoard/Portfolio-Red-Saloon) | `HTML5` `CSS3` | Responsive band showcase deployed live on GitHub Pages |
-| [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
+| Category | Project | Stack | Technical Focus |
+| :--- | :--- | :---: | :--- |
+| **OOP** | [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Inheritance, polymorphism & encapsulation |
+| **Data** | [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM/DER`, `DDL/DML` schema & `DQL` analytics |
+| **Architecture** | [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements elicitation, Use Case & Class Diagrams |
+| **Web** | [**Portfolio - Red Saloon**](https://github.com/madoard/Portfolio-Red-Saloon) | `HTML5` `CSS3` | Responsive layout & static deployment on GitHub Pages |
+| **CLI** | [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
 
 <br/>
 
