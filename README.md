@@ -2,6 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Information%20Systems%20%E2%80%A2%20Data%20Engineering*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
 
+  <p>｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ──────────── ꒰ 🦢 ꒱ ──────────── ⋆｡ﾟ☾ ﾟ｡⋆｡☁︎｡ﾟ</p>
+
   <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E0%A6%8C+%F0%9F%8C%B8+Hi%2C+I'm+Maria+Eduarda+Gon%C3%A7alves!+%F0%9F%8C%B8+%EA%92%B1%E2%80%A7%E2%82%8A%CB%9A;Information+Systems+Student+%F0%9F%A6%A2;Full-Stack+Web+Developer+%F0%9F%8E%80;Data+%26+Software+Engineering+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
@@ -17,18 +19,22 @@
 
 <br/>
 
-<p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
+<p align="center">୨୧ ─────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────── ୨୧</p>
 
-### ╰┈➤ ꒰ 🎀 ꒱ About Me
+### <p align="center">˚₊‧꒰ა 🎀 About Me 🎀 ໒꒱‧₊˚</p>
+
+> ✧･ﾟ: *✧･ﾟ:* *Building clean software architectures, relational data pipelines, and responsive web experiences.* *:･ﾟ✧*:･ﾟ✧
 
 - **₊˚🌷 Academic & Tech Journey:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), building a solid foundation in software architecture, relational databases, and object-oriented systems.
 - **₊˚🍰 Hands-On Development:** Operating freelance full-stack web projects (**APHOV**), crafting responsive front-end interfaces alongside backend logic and database integrations.
 - **₊˚🌷 Data & Enterprise Ecosystem:** Exploring **Data Engineering** pipelines (`ETL/ELT`, SQLite/MySQL), Python automation, and **SAP / ABAP** fundamentals.
 - **₊˚🍰 Beyond Code:** Passionate about oil & pastel painting, psychology, philosophy, and cozy study sessions.
 
-<p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
+<br/>
 
-### ╰┈➤ ꒰ 🪄 ꒱ Tech Stack & Tools
+<p align="center">₊˚ʚ ᗢ₊˚✧ ﾟ. ─────── ꒰ 🪄 ꒱ ─────── .ﾟ ✧˚₊ᗢ ɞ˚₊</p>
+
+### <p align="center">˚₊‧꒰ა ✨ Tech Stack & Tools ✨ ໒꒱‧₊˚</p>
 
 <div align="center">
 
@@ -48,22 +54,28 @@
 
 </div>
 
-<p align="center">‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────────────────────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾.</p>
+<br/>
 
-### ╰┈➤ ꒰ 🍓 ꒱ Featured Projects
+<p align="center">୨୧ ─────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────── ୨୧</p>
+
+### <p align="center">˚₊‧꒰ა 🍓 Featured Projects 🍓 ໒꒱‧₊˚</p>
+
+<div align="center">
 
 | Project | Stack | Focus |
 | :--- | :---: | :--- |
-| [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
-| [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM` modeling, `DDL/DML` schema & analytical `DQL` queries |
-| [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
-| [**Portfolio - Red Saloon**](https://github.com/madoard/Portfolio-Red-Saloon) | `HTML5` `CSS3` | Responsive landing page & live deployment via GitHub Pages |
-| [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
+| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
+| 🗄️ [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM` modeling, `DDL/DML` schema & analytical `DQL` queries |
+| ☁️ [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
+| 🎸 [**Portfolio - Red Saloon**](https://github.com/madoard/Portfolio-Red-Saloon) | `HTML5` `CSS3` | Responsive landing page & live deployment via GitHub Pages |
+| 📓 [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
+
+</div>
 
 <br/>
 
 <div align="center">
-  <p>°•. 🌸 .•° ────── ꒰ 💗 ꒱ ────── °•. 🌸 .•°</p>
+  <p>°•. ✿ .•° ────── ꒰ 💗 ꒱ ────── °•. ✿ .•°</p>
   <p><i>made with 💗 by <b>Maria Eduarda Gonçalves</b></i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,50:FFB7C5,100:FFD1DC&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
