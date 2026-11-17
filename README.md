@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Java-E6E6FA?style=for-the-badge&logo=openjdk&logoColor=555555" alt="Java" />
     <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/SQLite-FFB7C5?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Luau-E6E6FA?style=for-the-badge&logo=lua&logoColor=555555" alt="Luau" />
   </p>
 
   <p>
@@ -64,10 +65,10 @@
 
 | Project | Stack | Focus |
 | :--- | :---: | :--- |
-| | 🧠 **[Nave Encephalon](https://github.com/madoard/roblox-encephalon-neuro-game)** | Jogo EdTech sci-fi que traduz neurociência e regulação da dopamina em mecânicas de jogo interativas *(Em Desenvolvimento)*. | `Luau` `Roblox Studio` `Game Design` |
+| 🧠 [**Nave Encephalon (EdTech Sci-Fi Game)**](https://github.com/madoard/roblox-encephalon-neuro-game) | `Luau` `Roblox` | Client-server architecture, neuroscience & dopamine mechanics *(WIP)* |
+| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
 | 🗄️ [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM` modeling, `DDL/DML` schema & analytical `DQL` queries |
 | ☁️ [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
-| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
 | 📓 [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
 
 </div>
