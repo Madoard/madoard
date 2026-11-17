@@ -1,0 +1,38 @@
+name: generate animation
+
+on:
+  # Roda automaticamente a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+  
+  # Roda sempre que houver push na branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff8da1&color_dots=#241e33,#f8bbd0,#f48fb1,#ffb7c5,#e6e6fa
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ff8da1&color_dots=#f3eef8,#ffd1dc,#ffb7c5,#f48fb1,#e6e6fa
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
