@@ -74,20 +74,6 @@
 
 <br/>
 
-<p align="center">₊˚ʚ ᗢ₊˚✧ ﾟ. ─────── ꒰ 🐍 ꒱ ─────── .ﾟ ✧˚₊ᗢ ɞ˚₊</p>
-
-### <p align="center">˚₊‧꒰ა 🌸 Contribution Activity 🌸 ໒꒱‧₊˚</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madoard/madoard/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madoard/madoard/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/madoard/madoard/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
 <div align="center">
   <p>°•. ✿ .•° ────── ꒰ 💗 ꒱ ────── °•. ✿ .•°</p>
   <p><i>made with 💗 by <b>Maria Eduarda Gonçalves</b></i></p>
