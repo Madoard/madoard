@@ -64,10 +64,10 @@
 
 | Project | Stack | Focus |
 | :--- | :---: | :--- |
-| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
+| | 🧠 **[Nave Encephalon](https://github.com/madoard/roblox-encephalon-neuro-game)** | Jogo EdTech sci-fi que traduz neurociência e regulação da dopamina em mecânicas de jogo interativas *(Em Desenvolvimento)*. | `Luau` `Roblox Studio` `Game Design` |
 | 🗄️ [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM` modeling, `DDL/DML` schema & analytical `DQL` queries |
 | ☁️ [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
-| 🎸 [**Portfolio - Red Saloon**](https://github.com/madoard/Portfolio-Red-Saloon) | `HTML5` `CSS3` | Responsive landing page & live deployment via GitHub Pages |
+| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
 | 📓 [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
 
 </div>
