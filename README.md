@@ -1,18 +1,18 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Information%20Systems%20%E2%80%A2%20Data%20Engineering*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Engenharia%20de%20Dados*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Banner de Cabeçalho" />
 
   <p>｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ──────────── ꒰ 🦢 ꒱ ──────────── ⋆｡ﾟ☾ ﾟ｡⋆｡☁︎｡ﾟ</p>
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E0%A6%8C+%F0%9F%8C%B8+Hi%2C+I'm+Maria+Eduarda+Gon%C3%A7alves!+%F0%9F%8C%B8+%EA%92%B1%E2%80%A7%E2%82%8A%CB%9A;Information+Systems+Student+%F0%9F%A6%A2;Full-Stack+Web+Developer+%F0%9F%8E%80;Data+%26+Software+Engineering+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E0%A6%8C+%F0%9F%8C%B8+Oi%2C+eu+sou+Maria+Eduarda+Gon%C3%A7alves!+%F0%9F%8C%B8+%EA%92%B1%E2%80%A7%E2%82%8A%CB%9A;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%A6%A2;Desenvolvedora+Web+Full-Stack+%F0%9F%8E%80;Entusiasta+de+Dados+%26+Engenharia+de+Software+%E2%9C%A8" alt="Typing SVG" />
     </a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Degree-Information%20Systems-E6E6FA?style=for-the-badge&logoColor=555555" alt="Information Systems" />
-    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Data%20Engineering-FFD1DC?style=for-the-badge&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-Sistemas%20de%20Informa%C3%A7%C3%A3o-E6E6FA?style=for-the-badge&logoColor=555555" alt="Sistemas de Informação" />
+    <img src="https://img.shields.io/badge/Foco-Backend%20%26%20Engenharia%20de%20Dados-FFD1DC?style=for-the-badge&logoColor=white" alt="Foco" />
   </p>
 
 </div>
@@ -21,20 +21,20 @@
 
 <p align="center">୨୧ ─────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────── ୨୧</p>
 
-### <p align="center">˚₊‧꒰ა 🎀 About Me 🎀 ໒꒱‧₊˚</p>
+### <p align="center">˚₊‧꒰ა 🎀 Sobre Mim 🎀 ໒꒱‧₊˚</p>
 
-> ✧･ﾟ: *✧･ﾟ:* *Building clean software architectures, relational data pipelines, and responsive web experiences.* *:･ﾟ✧*:･ﾟ✧
+> ✧･ﾟ: *✧･ﾟ:* *Construindo arquiteturas de software limpas, pipelines de dados relacionais e experiências web responsivas.* *:･ﾟ✧*:･ﾟ✧
 
-- **₊˚🌷 Academic & Tech Journey:** Pursuing a Bachelor's degree in **Information Systems** (*Sistemas de Informação*), building a solid foundation in software architecture, relational databases, and object-oriented systems.
-- **₊˚🍰 Hands-On Development:** Operating freelance full-stack web projects (**APHOV**), crafting responsive front-end interfaces alongside backend logic and database integrations.
-- **₊˚🌷 Data & Enterprise Ecosystem:** Exploring **Data Engineering** pipelines (`ETL/ELT`, SQLite/MySQL), Python automation, and **SAP / ABAP** fundamentals.
-- **₊˚🍰 Beyond Code:** Passionate about oil & pastel painting, psychology, philosophy, and cozy study sessions.
+- **₊˚🌷 Jornada Acadêmica & Tech:** Cursando bacharelado em **Sistemas de Informação**, construindo uma base sólida em arquitetura de software, bancos de dados relacionais e sistemas orientados a objetos.
+- **₊˚🍰 Desenvolvimento na Prática:** Atuação em projetos web full-stack freelance (**APHOV**), criando interfaces front-end responsivas aliadas à lógica de back-end e integração com bancos de dados.
+- **₊˚🌷 Dados & Ecossistema Corporativo:** Explorando pipelines de **Engenharia de Dados** (`ETL/ELT`, SQLite/MySQL), automação com Python e fundamentos de **SAP / ABAP**.
+- **₊˚🍰 Além do Código:** Apaixonada por pintura a óleo e giz pastel, psicologia, filosofia e sessões aconchegantes de estudo.
 
 <br/>
 
 <p align="center">₊˚ʚ ᗢ₊˚✧ ﾟ. ─────── ꒰ 🪄 ꒱ ─────── .ﾟ ✧˚₊ᗢ ɞ˚₊</p>
 
-### <p align="center">˚₊‧꒰ა ✨ Tech Stack & Tools ✨ ໒꒱‧₊˚</p>
+### <p align="center">˚₊‧꒰ა ✨ Tech Stack & Ferramentas ✨ ໒꒱‧₊˚</p>
 
 <div align="center">
 
@@ -59,17 +59,17 @@
 
 <p align="center">୨୧ ─────── ‧₊˚ ☁️⋅♡𓂃 ࣪ ִֶָ☾. ─────── ୨୧</p>
 
-### <p align="center">˚₊‧꒰ა 🍓 Featured Projects 🍓 ໒꒱‧₊˚</p>
+### <p align="center">˚₊‧꒰ა 🍓 Projetos em Destaque 🍓 ໒꒱‧₊˚</p>
 
 <div align="center">
 
-| Project | Stack | Focus |
+| Projeto | Stack | Foco |
 | :--- | :---: | :--- |
-| 🧠 [**Nave Encephalon (EdTech Sci-Fi Game)**](https://github.com/madoard/roblox-encephalon-neuro-game) | `Luau` `Roblox` | Client-server architecture, neuroscience & dopamine mechanics *(WIP)* |
-| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Object-Oriented Programming (`OOP`), inheritance & polymorphism |
-| 🗄️ [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Conceptual `ERM` modeling, `DDL/DML` schema & analytical `DQL` queries |
-| ☁️ [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Requirements engineering, Use Case & Class Diagrams |
-| 📓 [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | In-memory `CRUD` directory using lists & dictionaries |
+| 🧠 [**Nave Encephalon (EdTech Sci-Fi Game)**](https://github.com/madoard/roblox-encephalon-neuro-game) | `Luau` `Roblox` | Arquitetura cliente-servidor, neurociência e mecânicas de dopamina *(em desenvolvimento)* |
+| 🦢 [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Programação Orientada a Objetos (`POO`), herança e polimorfismo |
+| 🗄️ [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Modelagem conceitual `MER`, schema `DDL/DML` e consultas analíticas `DQL` |
+| ☁️ [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Engenharia de requisitos, Diagramas de Casos de Uso e de Classes |
+| 📓 [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | Agenda `CRUD` em memória usando listas e dicionários |
 
 </div>
 
@@ -77,6 +77,6 @@
 
 <div align="center">
   <p>°•. ✿ .•° ────── ꒰ 💗 ꒱ ────── °•. ✿ .•°</p>
-  <p><i>made with 💗 by <b>Maria Eduarda Gonçalves</b></i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,50:FFB7C5,100:FFD1DC&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <p><i>feito com 💗 por <b>Maria Eduarda Gonçalves</b></i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6E6FA,50:FFB7C5,100:FFD1DC&height=100&section=footer" width="100%" alt="Onda de Rodapé" />
 </div>
