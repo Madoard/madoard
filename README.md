@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+Maria+Eduarda+Gon%C3%A7alves!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Entusiasta+de+Dados+%26+Engenharia+de+Software" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+Eduarda+Gon%C3%A7alves!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Entusiasta+de+Dados+%26+Engenharia+de+Software" alt="Typing SVG" />
     </a>
   </p>
 
