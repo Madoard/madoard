@@ -60,11 +60,11 @@
 
 | Projeto | Stack | Foco |
 | :--- | :---: | :--- |
-| [**Nave Encephalon (EdTech Sci-Fi Game)**](https://github.com/madoard/roblox-encephalon-neuro-game) | `Luau` `Roblox` | Arquitetura cliente-servidor, neurociência e mecânicas de dopamina *(em desenvolvimento)* |
-| [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Programação Orientada a Objetos (`POO`), herança e polimorfismo |
-| [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Modelagem conceitual `MER`, schema `DDL/DML` e consultas analíticas `DQL` |
-| [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Engenharia de requisitos, Diagramas de Casos de Uso e de Classes |
-| [**Python Data Cleaning Pipeline**](https://github.com/Madoard/python-data-cleaning-pipeline) | `Python` `Pandas` | Limpeza, auditoria, classificação de registros e exportação de dados em CSV |
+| [**Pipeline de Limpeza de Dados**](https://github.com/Madoard/python-data-cleaning-pipeline) | `Python` `Pandas` | Limpeza, auditoria, classificação de registros e exportação de dados em CSV |
+| [**Nave Encephalon (Jogo Educativo Sci-Fi)**](https://github.com/madoard/roblox-encephalon-neuro-game) | `Luau` `Roblox` | Arquitetura cliente-servidor, neurociência e mecânicas de dopamina *(em desenvolvimento)* |
+| [**Modelagem de Banco de Dados Relacional**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Modelagem conceitual `MER`, schema `DDL/DML` e consultas analíticas `DQL` |
+| [**Cofrinho Digital Multimoedas**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Programação Orientada a Objetos (`POO`), herança e polimorfismo |
+| [**Controle de Acesso Inteligente**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Engenharia de requisitos, Diagramas de Casos de Uso e de Classes |
 
 </div>
 
