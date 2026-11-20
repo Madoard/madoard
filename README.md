@@ -11,9 +11,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Gradua%C3%A7%C3%A3o-Sistemas%20de%20Informa%C3%A7%C3%A3o-E6E6FA?style=for-the-badge&logoColor=555555" alt="Sistemas de Informação" />
-    <img src="https://img.shields.io/badge/Foco-Backend%20%26%20Engenharia%20de%20Dados-FFD1DC?style=for-the-badge&logoColor=white" alt="Foco" />
-  </p>
-
+    <img src="https://img.shields.io/badge/Foco-Python%2C%20SQL%20%26%20Dados-FFD1DC?style=for-the-badge&logoColor=white" alt="Foco" />
 </div>
 
 <br/>
