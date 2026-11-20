@@ -20,10 +20,10 @@
 
 ### <p align="center">˚₊‧꒰ა Sobre Mim ໒꒱‧₊˚</p>
 
-> *Construindo arquiteturas de software limpas, pipelines de dados relacionais e experiências web responsivas.*
+> *Aprendendo na prática: dados, automação e sistemas bem modelados.*
 
 - **Jornada Acadêmica & Tech:** Cursando bacharelado em **Sistemas de Informação**, construindo uma base sólida em arquitetura de software, bancos de dados relacionais e sistemas orientados a objetos.
-- **Desenvolvimento na Prática:** Atuação em projetos web full-stack freelance (**APHOV**), criando interfaces front-end responsivas aliadas à lógica de back-end e integração com bancos de dados.
+- **Desenvolvimento na Prática:** projetos pessoais e acadêmicos em Python, Java, SQL e Luau, com documentação e modelagem de requisitos.
 - **Dados & Ecossistema Corporativo:** Explorando pipelines de **Engenharia de Dados** (`ETL/ELT`, SQLite/MySQL), automação com Python e fundamentos de **SAP / ABAP**.
 - **Além do Código:** Pintura a óleo e giz pastel, psicologia, filosofia e sessões de estudo.
 
