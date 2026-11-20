@@ -66,7 +66,7 @@
 | [**Multi-Currency Digital Piggy Bank**](https://github.com/madoard/java-oop-digital-piggy-bank) | `Java` | Programação Orientada a Objetos (`POO`), herança e polimorfismo |
 | [**Relational Database Modeling & SQL**](https://github.com/madoard/sql-relational-database-modeling) | `MySQL` | Modelagem conceitual `MER`, schema `DDL/DML` e consultas analíticas `DQL` |
 | [**Smart Access Control System**](https://github.com/madoard/uml-smart-access-control-system) | `UML` | Engenharia de requisitos, Diagramas de Casos de Uso e de Classes |
-| [**Python Contact List Manager**](https://github.com/madoard/Madoard-python-contact-list-manager) | `Python` | Agenda `CRUD` em memória usando listas e dicionários |
+| [**Python Data Cleaning Pipeline**](https://github.com/Madoard/python-data-cleaning-pipeline) | `Python` `Pandas` | Limpeza, auditoria, classificação de registros e exportação de dados em CSV |
 
 </div>
 
