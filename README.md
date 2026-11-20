@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%EF%BD%A5%EF%BE%9F:%20*Sistemas%20de%20Informa%C3%A7%C3%A3o%20%E2%80%A2%20Engenharia%20de%20Dados*%20:%EF%BD%A5%EF%BE%9F%E2%9C%A7&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Banner de Cabeçalho" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:FFB7C5,100:E6E6FA&height=180&section=header&text=Maria%20Eduarda%20Gon%C3%A7alves&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A6%EF%BD%A5%EF%BE%9F%3A%20%2ASistemas%20de%20Informa%C3%A7%C3%A3o%2A%20%3A%EF%BE%9F%EF%BD%A5%E2%9C%A6&descSize=14&descAlignY=58&animation=twinkling" width="100%" alt="Banner de Cabeçalho" />
   <p>─────────────────────── ✦ ───────────────────────</p>
 
   <p>
